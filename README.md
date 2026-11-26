@@ -49,6 +49,7 @@ glioma-data-separator/
 ├── umap_clusters_vs_samples.png  # 2D UMAP projection comparing clusters and sample cohorts
 ├── LICENSE
 └── README.md
+```
 ## Quickstart
 
 1. Install dependencies:
